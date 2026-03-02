@@ -1,5 +1,6 @@
 # Marketing Platform For Attracting Traffic
-
+> [!CAUTION]
+> **Disclaimer:** This project is an independent development created for educational and demonstration purposes during a hackathon. It is **not** affiliated with, authorized, maintained, sponsored, or endorsed by the **A.S. Watson Group** or any of its subsidiaries (Watsons). All trademarks and brand names belong to their respective owners.
 ![logo](https://github.com/user-attachments/assets/09b4f44a-85e1-42dc-9d76-8f2e6d68e36f)<svg id="Группа_2" data-name="Группа 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1060" height="279" viewBox="0 0 1060 279">
 
 ## Project Overview
