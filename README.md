@@ -1,6 +1,6 @@
-Marketing Lead-Generation Platform
+# Marketing Platform For Attracting Traffic
 
-![logo](https://github.com/user-attachments/assets/e7316d9e-eca6-43ee-89b3-3d6db5705713)<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1060" height="279" viewBox="0 0 1060 279">
+![logo](https://github.com/user-attachments/assets/09b4f44a-85e1-42dc-9d76-8f2e6d68e36f)<svg id="Группа_2" data-name="Группа 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1060" height="279" viewBox="0 0 1060 279">
 
 ## Project Overview
 **Watsons+** is a cross-platform marketing solution designed to bridge the gap between traditional email marketing and active social media engagement. Developed during a hackathon, the system creates a seamless lead-generation funnel that converts static email traffic into an interactive Telegram community through a reward-based incentive system.
